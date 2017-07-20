@@ -1,0 +1,46 @@
+/* Default Lawyer Plugin Style */
+#lawyer-resources.default{
+	background:#FFF;
+}
+#lawyer-resources.default .lawyer-resources-heading{
+	padding:.5em 0;
+	margin:0 0 .75em 0;
+	border-bottom:#EEE 1px solid;
+}
+#lawyer-resources.default ul,
+#lawyer-resources.default li,
+#lawyer-resources.default h3,
+#lawyer-resources.default h4,
+#lawyer-resources.default p{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#lawyer-resources.default .category-item{
+	margin:0 0 .5em 0;
+	padding:.5em 0;
+	border-bottom:#EEE 1px solid;
+}
+#lawyer-resources.default.icons-false .category-item{
+	background:none !important;
+}
+#lawyer-resources.default.icons-true .category-item{
+	min-height:60px;
+	padding-left:60px;
+	background-repeat:no-repeat;
+	background-position:0 8px;
+}
+#lawyer-resources.default .category-title a{
+	color:#003e6d;
+	text-decoration:none;
+}
+
+#lawyer-resources.default .resource-item{
+	margin:0 0 .5em 0;
+	padding:.5em 0;
+	border-bottom:#EEE 1px solid;
+}
+#lawyer-resources.default .resource-item p{
+	margin:0;
+	padding:.25em 0;
+}
